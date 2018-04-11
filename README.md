@@ -15,7 +15,7 @@ Once enough commited members join WLASEC I would like to get started on a group 
 
 ***
 Here are some ideas we have so far for our group project:
-***
+
 - A malicious bot detector (Proposed by Danny)
 
 - A ride share app for West LA students that encourages carpooling (Proposed by Margarita)
