@@ -9,7 +9,7 @@ Once enough commited members join WLASEC I would like to get started on a group 
 <li>Programming languages that you're proficient in (Java, C++, Python, etc.)</li>
 <li>Schedule (so I can plan club meetups accordingly)</li>
 
-
+<br>
 Here are some ideas we have so far:
 
 
