@@ -10,7 +10,7 @@ Once enough commited members join WLASEC I would like to get started on a group 
 <li>Schedule (so I can plan club meetups accordingly)</li>
 <br>
 Here are some ideas we have so far:
-
+<br>
 <li>A malicious bot detector (Proposed by Danny)</li>
 <li>A ride share app for West LA students that encourages carpooling (Proposed by Margarita)</li>
 <li>Redesign the West LA website frontend (Propesed by Rashad) </li>
