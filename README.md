@@ -8,9 +8,7 @@ Once enough commited members join WLASEC I would like to get started on a group 
 <li>Major</li>
 <li>Programming languages that you're proficient in (Java, C++, Python, etc.)</li>
 <li>Schedule (so I can plan club meetups accordingly)</li>
- 
-
-
+<br>
 Here are some ideas we have so far:
 <li>A malicious bot detector (Proposed by Danny)</li>
 <li>A ride share app for West LA students that encourages carpooling (Proposed by Margarita)</li>
