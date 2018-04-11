@@ -5,15 +5,23 @@ Hi! Everyone! Welcome to the  West LA Software Engineering Club(WLASEC) GitHub! 
 ***
 Once enough commited members join WLASEC I would like to get started on a group project that we can all work on together. If you are not apart of the group, but would like to join please send the following information to wlacsec@gmail.com:
 *Name
+
 *Major
-*Programming languages that you're proficient in (Java, C++, Python, etc.)8
+
+*Programming languages that you're proficient in (Java, C++, Python, etc.)
+
 *Schedule (so I can plan club meetups accordingly)
+
 ***
 Here are some ideas we have so far:
 ***
 *A malicious bot detector (Proposed by Danny)
+
 *A ride share app for West LA students that encourages carpooling (Proposed by Margarita)
+
 *Redesign the West LA website frontend (Propesed by Rashad) 
+
 *Build a website for the West LA Software Engineering Club (Proposed by Rashad)
+
 ***
 If you have any ideas for a software project that you think would be fun to work on, please contact me at: wlacsec@gmail.com.
