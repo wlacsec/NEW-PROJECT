@@ -1,7 +1,7 @@
 # NEW-PROJECT
 This will be a project created by the West LA College Software Engineering Club
 ***
-Hi! Everyone! Welcome to the West LA College Software Engineering Club(WLACSEC) GitHub! This is where West LA College software engineers can contribute to projects that WLACSEC is working on. If you are unfamiliar with GitHub, please go to https://guides.github.com/ to learn more about how you can use this powerful tool. Once enough commited members join WLACSEC, I would like to get started on a club project that we can all work on together. If you are not apart of the club, but would like to join, please send the following information to wlacsec@gmail.com:
+Hi! Everyone! Welcome to the West LA College Software Engineering Club (WLACSEC) GitHub! This is where West LA College software engineers can contribute to projects that WLACSEC is working on. If you are unfamiliar with GitHub, please go to https://guides.github.com/ to learn more about how you can use this powerful tool. Once enough commited members join WLACSEC, I would like to get started on a club project that we can all work on together. If you are not apart of the club, but would like to join, please send the following information to wlacsec@gmail.com:
 
 - Name
 
