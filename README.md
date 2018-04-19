@@ -18,8 +18,8 @@ Here are some ideas we have so far for our group project:
 
 - A ride share app for West LA College students that encourages carpooling (Proposed by Margarita)
 
-- Redesign the West LA College website frontend (Propesed by Rashad) 
+- Redesign the West LA College website frontend
 
-- Build a website for the West LA College Software Engineering Club (Proposed by Rashad)
+- Build a website for the West LA College Software Engineering Club 
 
 If you have any ideas for a software project that you think would be fun to work on, please contact me at: wlacsec@gmail.com.
